@@ -1,0 +1,6 @@
+dataset/
+dataset_features.csv
+__pycache__/
+.venv/
+ai_env/
+.idea/
