@@ -40,7 +40,7 @@ Place the extracted dataset/ folder directly into the root directory of this pro
 
 (Optional) If you wish to extract features from scratch and retrain the model on your own hardware, run python build_dataset.py followed by python train_xgboost.py.
 
-🚀 How to Run the Application
+## 🚀 How to Run the Application
 To run the full-stack system, open two separate terminal windows in your IDE.
 
 Terminal 1: Start the FastAPI Backend
