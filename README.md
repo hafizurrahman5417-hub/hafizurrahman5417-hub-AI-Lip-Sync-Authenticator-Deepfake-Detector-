@@ -8,7 +8,7 @@ Traditional image-only deepfake detectors are easily bypassed by high-definition
 Below is the core directory structure for this project. Note that the raw `dataset/` folder and generated CSVs are excluded from version control to maintain a lightweight repository.
 
 ```text
-Project_exhibition-1/
+Project_Name/
 ├── backend/
 │   ├── app.py                 # FastAPI backend server
 │   ├── audio_processor.py     # Librosa audio feature extraction
@@ -24,8 +24,8 @@ Project_exhibition-1/
 ├── train_xgboost.py           # Script to train the XGBoost classifier
 ├── .gitignore                 # Untracked files (dataset/, environments, pycache)
 └── README.md                  # Project documentation
-
-###📊 Data Access & Dataset Setup
+```
+📊 Data Access & Dataset Setup
 To keep this source repository clean and fast, the raw video datasets and large CSV feature files are hosted externally.
 
 Data Access Link: https://www.kaggle.com/datasets/hafizur19/multi-modal-deepfake-video-dataset
