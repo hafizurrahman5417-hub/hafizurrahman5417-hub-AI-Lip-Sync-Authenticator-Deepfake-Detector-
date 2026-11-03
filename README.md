@@ -25,7 +25,7 @@ Project_Name/
 ├── .gitignore                 # Untracked files (dataset/, environments, pycache)
 └── README.md                  # Project documentation
 ```
-##📊 Data Access & Dataset Setup
+## 📊 Data Access & Dataset Setup
 To keep this source repository clean and fast, the raw video datasets and large CSV feature files are hosted externally.
 
 Data Access Link: https://www.kaggle.com/datasets/hafizur19/multi-modal-deepfake-video-dataset
